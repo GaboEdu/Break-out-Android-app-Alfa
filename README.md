@@ -30,12 +30,6 @@ Aplicar conocimientos de:
 * Programación orientada a objetos
 * Lógica de videojuegos
 
-## Mejoras futuras
-
-* Sistema de niveles
-* Interfaz gráfica mejorada
-* Sistema de puntuación
-* Sonidos y efectos visuales
 
 (La otra app es una app para testear los audios)
 
